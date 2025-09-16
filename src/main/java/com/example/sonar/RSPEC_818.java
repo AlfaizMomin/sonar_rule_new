@@ -1,3 +1,5 @@
+package com.example.sonar;
+
 public class RSPEC_818 {
     public void literalSuffixExample() {
         long long1 = 1l; // Noncompliant
