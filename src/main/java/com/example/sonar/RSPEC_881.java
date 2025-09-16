@@ -1,3 +1,5 @@
+package com.example.sonar;
+
 public class RSPEC_881 {
     public void example() {
         int u8a, u8b = 1, u8c = 2;

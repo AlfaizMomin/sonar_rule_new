@@ -1,3 +1,5 @@
+package com.example.sonar;
+
 public class RSPEC_7606 {
     public void onCreate() {
         WebView aWebView = new WebView(this);

@@ -1,3 +1,4 @@
+package com.example.sonar;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class RSPEC_7629 {

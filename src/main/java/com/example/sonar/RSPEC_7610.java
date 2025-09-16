@@ -1,3 +1,5 @@
+package com.example.sonar;
+
 public class RSPEC_7610 {
     public void onCreate() {
         String username = ((EditText) findViewById(R.id.username)).getText().toString();

@@ -1,3 +1,5 @@
+package com.example.sonar;
+
 public class RSPEC_864 {
     public void operatorPrecedenceExample() {
         int a = 1, b = 2, c = 3, x, y;
